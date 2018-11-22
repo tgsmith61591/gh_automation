@@ -1,0 +1,6 @@
+[run]
+source = gh_doc_automation
+include = */gh_doc_automation/*
+omit =
+    */gh_doc_automation/setup.py
+    */setup.py
